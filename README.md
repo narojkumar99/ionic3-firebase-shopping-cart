@@ -1,4 +1,4 @@
-This repository is part of an ionic tutorial that explains how to create ionic 3 ecommerce with firebase
+This repository is part of an ionic tutorial that explain how to create ionic 3 ecommerce with firebase
 
 Check the complete step by step tutorial in: http://www.developerslearnit.com/2018/01/building-ionic-3-shopping-cart-app-with-firebase-realtime-database-part-1.html
 
